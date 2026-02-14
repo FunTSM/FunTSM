@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FunTSM
 - 👀 I’m interested in: programing, circuitry, 3D printing, and video games
-- 🌱 I’m currently learning: GDscript
+- 🌱 I’m currently learning: HTML & Javascript
 - 💞️ I’m looking to collaborate on: Nothing
 - 📫 How to reach me: Dont
 - 😄 Pronouns: He/Him
